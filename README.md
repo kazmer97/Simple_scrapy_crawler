@@ -10,7 +10,7 @@ Read me
 
 **Simple run**
 
-From the tillit_challange folder in command line run: `scrapy crawl ycomb`
+From the *tillit_challange* folder in command line run: `scrapy crawl ycomb`
 
 Default sites it crawls: https://news.ycombinator.com , https://news.ycombinator.com/newcomments
 
